@@ -1,0 +1,14 @@
+.qmake.stash
+Makefile
+changewatcher.o
+main.o
+mainwindow.o
+mixsis.o
+mixsisctrl.o
+moc_changewatcher.cpp
+moc_changewatcher.o
+moc_mainwindow.cpp
+moc_mainwindow.o
+moc_predefs.h
+qsismix
+ui_mainwindow.h
